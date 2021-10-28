@@ -581,6 +581,7 @@ nav .logo span {
 	padding: 0;
 	cursor: pointer;
 	position: relative;
+	overflow: hidden;
 }
 .contact-container form .btn-submit::before,
 .contact-container form .btn-submit::after{
@@ -722,7 +723,7 @@ footer small{
 		font-size: 20px;
 	}
 	.home .content p {
-		height: 98px;
+		height: 93px;
 		overflow: hidden;
 	}
 	.img-slider {
