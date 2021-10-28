@@ -701,7 +701,7 @@ footer small{
 	color: rgba(255, 255, 255, 0.5);
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
 	.nav-bar {
 		display: none;
 	}
