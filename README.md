@@ -9,5 +9,4 @@
   <li>CSS</li>
   <li>JAVASCRIPT</li>
 </ul>
-https://mytmnsthu.github.io/Musk-desktop-and-mobile-view/
 <p>Demo link <a href="https://mytmnsthu.github.io/Musk-desktop-and-mobile-view/">Musk.</a></p>
